@@ -1,12 +1,9 @@
 @article{REPO230,
     author = "Jiao, Jing and Zhou, Jin and Li, Xiaokang and Xia, Menghua and Huang, Yi and Huang, Lihong and Wang, Na and Zhang, Xiaofan and Zhou, Shichong and Wang, Yuanyuan and Guo, Yi",
-    doi = "https://doi.org/10.1016/j.media.2024.103202",
     issn = "1361-8415",
     journal = "Medical Image Analysis",
-    keywords = "Ultrasound image, Foundation model, Label efficiency, Task adaptability",
     pages = "103202",
     title = "{USFM: A universal ultrasound foundation model generalized to tasks and organs towards label efficient image analysis}",
-    url = "https://www.sciencedirect.com/science/article/pii/S1361841524001270",
     volume = "96",
     year = "2024"
 }
